@@ -1,5 +1,7 @@
 import telebot
 from telebot import types
+from keep_alive import keep_alive
+keep_alive()
 
 API_TOKEN = '7857970440:AAG7D4Uawz14-HFnBQzYb7uOYAaZPl0NNuA'
 
