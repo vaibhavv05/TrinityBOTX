@@ -72,7 +72,3 @@ menus = {
 ## Extending the Bot
 
 To add more menus or modify existing ones, simply update the `menus` dictionary with new days or meals.
-
-## License
-
-This project is licensed under the MIT License.
